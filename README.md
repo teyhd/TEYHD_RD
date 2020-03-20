@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+
 ### Description:
 VanillaRat is an advanced remote administration tool coded in C#. VanillaRat uses the Telepathy TCP networking library, dnlib module reading and writing library, and Costura.Fody dll embedding library.
 
@@ -58,19 +58,5 @@ Once a client is connected you can select the client and right click on the clie
 - Process Manager (Get Running Applications): Right click to bring up options for refreshing and closing processes. 
 - File Browser: Right click to bring up options for downloading, uploading, refrshing, and deleting files. Note that for uploading you may drag and drop a file into the browser to upload it into the directory it is currently in.
 - Clipboard Text: Note you do not have to close the dialog if you want to get another copy of the currently copied text on the client. Just hit Get Clipboard Text again and the dialog will automatically update.
-
-### Screenshot:
-![Screenshot](Screenshot.png)
-
-### Demo: 
-![Demo](VanillaRatDemo.gif)
-
-## A Special Thanks To:
-
-**NinjahZ**
-
-**NYAN-x-CAT (https://github.com/NYAN-x-CAT)** 
-
-## Important Disclaimer:
 
 **I, the creator, am in no way responsible for any actions that you may make using this software. You take full responsibility with any action taken using this software. Please take note that this application was designed for educational purposes and should never be used maliciously. By downloading the software or source to the software, you automatically accept this agreement.**
